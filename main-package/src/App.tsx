@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { B } from './facade/src/B';
-import { C } from './facade/src/C';
+import { B } from '../../facade/src/B';
+import {C} from "../../facade/src/C";
 
 function App() {
   return (
